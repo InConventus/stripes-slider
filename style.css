@@ -106,7 +106,7 @@ body {
 
 .home {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.dropbox.com/s/fxla3zyvos6sjxs/IMG_20191027_1557-compressor.jpg?dl=0);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.dropbox.com/s/fxla3zyvos6sjxs/IMG_20191027_1557-compressor.jpg;
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
