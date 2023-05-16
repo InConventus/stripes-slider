@@ -106,7 +106,7 @@ body {
 
 .home {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.dropbox.com/s/tydzmtc3q7re5hi/IMG_20191027_1557-compressor.jpg?dl=0);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://file.notion.so/f/s/1d804898-cfd8-4be7-8bf3-5cd96bede03d/IMG_20191027_1557-compressor.jpg?id=94b409d8-5843-436c-b249-340a725d0ed0&table=block&spaceId=01556506-bbd4-4ff8-b9e9-4bddc371c247&expirationTimestamp=1684353210078&signature=vFqcpGX5R7rQNf-VKd5u45KzTY24C8IAvWra4S_boF0&downloadName=IMG_20191027_1557-compressor.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
