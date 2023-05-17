@@ -106,7 +106,7 @@ body {
 
 .home {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://file.notion.so/f/s/1d804898-cfd8-4be7-8bf3-5cd96bede03d/IMG_20191027_1557-compressor.jpg?id=94b409d8-5843-436c-b249-340a725d0ed0&table=block&spaceId=01556506-bbd4-4ff8-b9e9-4bddc371c247&expirationTimestamp=1684353210078&signature=vFqcpGX5R7rQNf-VKd5u45KzTY24C8IAvWra4S_boF0&downloadName=IMG_20191027_1557-compressor.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://file.notion.so/f/s/6cc576cb-c29c-4073-868f-bceb6427f074/NDFM-WARNKE-1.png?id=231700b8-0589-479e-996a-417ae79ed91e&table=block&spaceId=01556506-bbd4-4ff8-b9e9-4bddc371c247&expirationTimestamp=1684406542450&signature=Chs_AEgDT17IGOsz9c6ONPYzmuwwPQ5e5oTj_icDksw&downloadName=NDFM-WARNKE-1.png);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -177,7 +177,8 @@ body {
   }
 }
 .about {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/beach-2089959_1280.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(
+    https://file.notion.so/f/s/1d804898-cfd8-4be7-8bf3-5cd96bede03d/IMG_20191027_1557-compressor.jpg?id=94b409d8-5843-436c-b249-340a725d0ed0&table=block&spaceId=01556506-bbd4-4ff8-b9e9-4bddc371c247&expirationTimestamp=1684353210078&signature=vFqcpGX5R7rQNf-VKd5u45KzTY24C8IAvWra4S_boF0&downloadName=IMG_20191027_1557-compressor.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -196,14 +197,14 @@ textarea {
 }
 
 .contact {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/lake-696098_1920.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://file.notion.so/f/s/2142eac1-e5b9-469d-a67c-a7c3e9a945f0/valik-chernetskyi-aZe5vVpmDCo-unsplash-1-768x1024.jpeg?id=3d4785fb-f88f-4f7e-ac2e-6569abd1868a&table=block&spaceId=01556506-bbd4-4ff8-b9e9-4bddc371c247&expirationTimestamp=1684406623004&signature=h1iVVM6MuaU9QGLtGd_D9EpAYJettd_aeJDRASWJJKo&downloadName=valik-chernetskyi-aZe5vVpmDCo-unsplash-1-768x1024.jpeg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
 }
 
 .work {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/forest-208517_1280.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://file.notion.so/f/s/bdf0172e-fe2c-41b1-8bc6-bbc2b13d635c/AMC-Presentation-EN-all-options.png?id=a20401aa-04ae-4354-ae38-c9c7af48a2f9&table=block&spaceId=01556506-bbd4-4ff8-b9e9-4bddc371c247&expirationTimestamp=1684406652986&signature=3rlemWi-XBlN8Wn5n-XJvAJRkJdauF6OiZ2eBY4eJ4M&downloadName=AMC-Presentation-EN-all-options.png);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
